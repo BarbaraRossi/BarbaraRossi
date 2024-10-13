@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá 👋
 
-<!--
-**BarbaraRossi/BarbaraRossi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Boas-vindas ao meu perfil no GitHub.**  
 
-Here are some ideas to get you started:
+Meu nome é **Barbara**, mas pode me chamar de **Ba** ou **Babi**!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Sobre mim 👩‍💼
+Diferente de muitos por aqui, trabalho com **comunicação**. Sou **redatora publicitária** e atualmente atuo como **Content Designer** na área de UX. 
+
+Agora, estou mergulhando no universo de **Data Science**, trazendo minha bagagem de **análise crítica** e **narrativas impactantes** para meus estudos.  
+
+Acredito que os desafios complexos da tecnologia precisam de mais do que números — é necessário **contexto** e **criatividade**.
+
+---
+
+### O que busco 🚀 
+Quero integrar **comunicação** e **tecnologia** para transformar dados em informações valiosas.  
+
+Se você quiser bater um papo sobre **tecnologia e humanidades**, ou qualquer outro assunto que tenha te interessado, ficarei feliz em conversar com você!
+
+---
+
+### Onde me encontrar 👇
+[LinkedIn](https://www.linkedin.com/in/barbaraarossi)  
+[Kaggle](https://www.kaggle.com/barbaraarossi)
