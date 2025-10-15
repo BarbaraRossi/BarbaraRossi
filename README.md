@@ -7,11 +7,11 @@ Meu nome é **Barbara**, mas pode me chamar de **Ba** ou **Babi**!
 ---
 
 ### Sobre mim 👩‍💼
-Diferente de muitos por aqui, trabalho com **comunicação**. Sou **redatora publicitária** e atualmente atuo como **Content Designer** na área de UX. 
+Trabalho há mais de 8 anos com **comunicação**. Sou **redatora publicitária** e atualmente atuo como **Content Designer** na área de UX. 
 
 Agora, estou mergulhando no universo de **Data Science**, trazendo minha bagagem de **análise crítica** e **narrativas impactantes** para meus estudos.  
 
-Acredito que os desafios complexos da tecnologia precisam de mais do que números — é necessário **contexto** e **criatividade**.
+Acredito que os desafios complexos da tecnologia precisam de mais do que números, é necessário **contexto** e **criatividade**.
 
 ---
 
