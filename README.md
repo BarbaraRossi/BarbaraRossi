@@ -7,9 +7,7 @@ Meu nome é **Barbara**, mas pode me chamar de **Ba** ou **Babi**!
 ---
 
 ### Sobre mim 👩‍💼
-Trabalho há mais de 8 anos com **comunicação**. Sou **redatora publicitária** e há alguns anos atuo como **Content Designer** na área de UX. 
-
-Agora, estou mergulhando no universo de **Data Science**, trazendo minha bagagem de **análise crítica** e **narrativas impactantes** para meus estudos.  
+Depois de 10 anos trabalhando com conteúdo e UX, agora mergulho no universo de **Data Science** conectando dados e storytelling para ajudar negócios com melhores decisões. 
 
 Acredito que os desafios complexos da tecnologia precisam de mais do que números, é necessário **contexto** e **criatividade**.
 
